@@ -70,3 +70,14 @@ for item_set in life_items:
                 print (life_dict2[item_set[1]] + ' ' + item_set[1])
                 same_list.append(item_set[1])
             same_flag = 0
+
+
+"""
+7:00 ドア・鍵・洗濯物が凍る
+7:00 飲食物凍る
+8:00 凍結して転ぶ
+9:00 電車やバスが遅れる
+9:00 研究室に行く
+13:00 熊が出る
+19:00 洗濯物が乾かず取り込めない
+"""
